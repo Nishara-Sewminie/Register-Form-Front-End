@@ -1,1 +1,1 @@
-Not Responsive
+Responsive
